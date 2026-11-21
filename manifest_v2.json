@@ -1,0 +1,44 @@
+{
+  "item": {
+    "id": "pixelwatcha17",
+    "restype": "res_pack",
+    "name": "Pixel Watch A17 - 图标包",
+    "description": "资源包特点\n\n·谷歌同款光影图标\n\n·全手绘新增图标\n\n·日历随日期变化\n\n#一次购买多次更新",
+    "preview": [
+      "media/1000020402.png",
+      "media/1000020406.png",
+      "media/1000020419.png"
+    ],
+    "icon": "media/1000020456.png",
+    "cover": "media/1000020507.png",
+    "author": [
+      {
+        "name": "AuberDominique",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [],
+  "downloads": {
+    "xmb11": {
+      "version": "1.0.0",
+      "file_name": "downloads/Pixel Watch A17(fix2).crpack",
+      "versionCode": 1
+    }
+  },
+  "ext": {
+    "enableAstroBoxCreatorFeatures": true,
+    "bundledResources": {
+      "recommended": [
+        {
+          "type": "resource",
+          "id": "canopus_manager"
+        },
+        {
+          "type": "resource",
+          "id": "corona"
+        }
+      ]
+    }
+  }
+}
